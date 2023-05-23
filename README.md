@@ -23,7 +23,7 @@
 
 Screenshot
 
-![](./screenshots/project1.jpg)
+![Project 1](./screenshots/project1.jpg)
 
 
 
